@@ -1,2 +1,4 @@
+com/jojoldu/book/springbook/web/dto/HelloResponseDtoTest.java
+ com.jojoldu.book.springbook.web.dto.HelloResponseDtoTest
 com/jojoldu/book/springbook/web/HelloControllerTest.java
  com.jojoldu.book.springbook.web.HelloControllerTest
